@@ -1,8 +1,5 @@
-#include <hellomake.h>
-
-int main()
+#include<stdio.h>
+void main()
 {
-    myPrintHelloMake();
-
-  return(0);
+   printf("hello all");
 }
