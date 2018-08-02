@@ -1,2 +1,2 @@
-hellomake: hellomake.c 
-	gcc -o hellomake hellomake.c -I.
+hellomake: hellomake.c hellonew.c
+	gcc -o hellomake hellomake.c hellonew.c -I.
